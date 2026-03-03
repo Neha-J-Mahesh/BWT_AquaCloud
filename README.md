@@ -17,5 +17,4 @@ This is a hackathon project focused on building an AI-powered solution for learn
 2. Install dependencies
 3. Run the application
 
-## Author
-Neha J Mahesh
+
