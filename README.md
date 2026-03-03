@@ -1,20 +1,45 @@
 # BWT AquaCloud 🌊
 
-This is a hackathon project focused on building an AI-powered solution for learning and productivity.
+## 📌 Problem Statement
+Managing and understanding learning content is difficult due to information overload and lack of personalization.
 
-## Features
-- Personalized learning support
+## 💡 Solution Overview
+BWT AquaCloud is an AI-powered learning assistant that helps users understand topics in a simple and personalized way.  
+It adapts explanations based on the user’s level and generates summaries and practice questions automatically.
+
+## ⚙️ Key Features
+- Personalized topic explanations
+- AI-generated summaries
+- Quiz generation for self-assessment
 - Simple and user-friendly interface
-- AI-based responses
 
-## Tech Stack
-- Python
-- HTML, CSS, JavaScript
-- OpenAI API
+## 🏗️ System Architecture
+The system follows a client-server architecture where:
+- The frontend collects user input (topic and level)
+- The backend processes the request
+- The AI model generates the response
+- The result is displayed to the user
 
-## How to Run
-1. Clone the repository
-2. Install dependencies
-3. Run the application
+### Architecture Diagram
+![Architecture Diagram](architecture.png)
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python (Flask)
+- AI Model: OpenAI API
+
+## 🚀 How to Run
+1. Clone the repository  
+2. Install required libraries  
+3. Run the backend server  
+4. Open the frontend in browser  
+
+## 📈 Future Enhancements
+- User progress tracking  
+- Flashcards support  
+- Voice-based learning  
+- Mobile app version  
+
+
 
 
