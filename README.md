@@ -20,8 +20,7 @@ The system follows a client-server architecture where:
 - The AI model generates the response
 - The result is displayed to the user
 
-### Architecture Diagram
-![Architecture Diagram](architecture.png)
+
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
